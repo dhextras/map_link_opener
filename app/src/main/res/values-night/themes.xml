@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MapLinkOpener" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark_mode_primary</item>
+        <item name="colorPrimaryVariant">@color/dark_mode_primary</item>
+        <item name="colorOnPrimary">@color/dark_mode_on_primary</item>
+        <item name="colorSecondary">@color/dark_mode_secondary</item>
+        <item name="colorSecondaryVariant">@color/dark_mode_secondary</item>
+        <item name="colorOnSecondary">@color/dark_mode_on_secondary</item>
+        <item name="android:statusBarColor">@color/dark_mode_background</item>
+        <item name="android:windowBackground">@color/dark_mode_background</item>
+        <item name="android:textColor">@color/dark_mode_secondary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

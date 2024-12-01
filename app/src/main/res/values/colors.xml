@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Mode Colors -->
+    <color name="light_mode_background">#DCDCDC</color>
+    <color name="light_mode_surface">#FAFAFA</color>
+    <color name="light_mode_primary">#232323</color>
+    <color name="light_mode_on_primary">#FFFFFF</color>
+    <color name="light_mode_secondary">#FFFFFF</color>
+    <color name="light_mode_on_secondary">#000000</color>
+
+    <!-- Dark Mode Colors -->
+    <color name="dark_mode_background">#202124</color>
+    <color name="dark_mode_surface">#303134</color>
+    <color name="dark_mode_primary">#878787</color>
+    <color name="dark_mode_on_primary">#000000</color>
+    <color name="dark_mode_secondary">#9AA0A6</color>
+    <color name="dark_mode_on_secondary">#BFBFBF</color>
+</resources>
